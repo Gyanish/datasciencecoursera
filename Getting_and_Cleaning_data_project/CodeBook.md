@@ -6,7 +6,7 @@ Additional information about the variables, data and transformations used in the
 
 Source Data
 
-Data + Description can be found here UCI Machine Learning Repository
+Data + Description can be found here [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 Data Set Information
 
